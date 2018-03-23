@@ -18,7 +18,7 @@ nav ul {
 .mainnav{margin: 0 auto}
 li{list-style: none;}
 li a{text-decoration: none;}
-.dropdown{position: absolute; width: 150px;top: 115px; opacity: 0;visibility: hidden;transition: ease-out .35s;-moz-transition: ease-out .35s;-webkit-transition: ease-out .35s;}
+.dropdown{position: absolute; width: 150px;top: 16%; opacity: 0;visibility: hidden;transition: ease-out .35s;-moz-transition: ease-out .35s;-webkit-transition: ease-out .35s;}
 .mainnav li{float: left;padding: 5px;background: #99B896;border-left: 1px dotted #fff;}
 .mainnav li:first-child{border: none;}
 .mainnav li a{ display: block;padding: 2px 20px;color: #fff; font-family: Muli;}
