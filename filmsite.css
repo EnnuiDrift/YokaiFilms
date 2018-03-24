@@ -3,7 +3,7 @@
 body {
   font-family: Muli, Oswald, Verdana, sans-serif;
   font-size: 0.8em;
-  background-image: url("sakura.jpg");
+  background-image: url("./docs/images/sakura.jpg");
 }
 
 header, footer, section, article {
