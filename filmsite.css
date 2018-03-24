@@ -1,19 +1,17 @@
 @charset "UTF-8";
 /* CSS Document */
-<link href="https://fonts.googleapis.com/css?family=Muli|Oswald" rel="stylesheet">
-
 body {
-	font-family: Muli, Oswald, Verdana, sans-serif; font-size: 0.8em;
-	background: url(/docs/images/sakura.jpg);
-	background-repeat: no-repeat;
-	background-size: cover; 
+  font-family: Muli, Oswald, Verdana, sans-serif;
+  font-size: 0.8em;
+  background-image: url("sakura.jpg");
 }
+
 header, footer, section, article {
 	border: 1px solid #2B363C;
 	margin: 5px;
 	margin-bottom: 15px;
 	padding: 8px;
-	background-color: rgb(232, 75, 96); opacity: 0.4;
+	background-color: rgb(232, 75, 96); opacity: 0.8;
 	color: #FFF;
 }
 section {
@@ -35,10 +33,10 @@ a:hover {
 .mainnav{z-index: 9990; margin: 0 auto}
 li{list-style: none;}
 li a{text-decoration: none;}
-.dropdown{position: absolute; width: 150px;top: 21%; opacity: 0;visibility: hidden;transition: ease-out .35s;-moz-transition: ease-out .35s;-webkit-transition: ease-out .35s;}
+.dropdown{position: absolute; width: 150px;top: 19.2%; opacity: 0;visibility: hidden;transition: ease-out .35s;-moz-transition: ease-out .35s;-webkit-transition: ease-out .35s;}
 .mainnav li{ z-index: 9990; float: left;padding: 5px;background: #99B896;border-left: 1px dotted #fff;}
 .mainnav li:first-child{ z-index: 9990; border: none;}
-.mainnav li a{ z-index: 9990; display: block;padding: 2px 20px;color: #fff; font-family: Muli;}
+.mainnav li a{ z-index: 9990; display: block;padding: 2px 20px;color: #fff; font-family: Muli; font-size: 1.2em}
 .mainnav li:hover{ z-index: 9990; background: #fff;transition: ease-in .35s;-moz-transition: ease-in .35s;-webkit-transition: ease-in .35s;}
 .mainnav li:hover a{ z-index: 9990;color: #99B896;transition: ease-in .35s;-moz-transition: ease-in .35s;-webkit-transition: ease-in .35s;}
 /*First Level*/
