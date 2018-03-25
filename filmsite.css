@@ -3,16 +3,17 @@
 body {
   font-family: Muli, Oswald, Verdana, sans-serif;
   font-size: 0.8em;
-  background-image: url("./docs/images/sakura.jpg");
-  background-repeat: repeat-y;
+  background-image: url("./docs/images/kiwi1.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 a {
-	color: #99B896;
+	color: #2B363C;
 	text-decoration: none;
 }
 a:visited {
 	text-decoration: none;
-	color: #82AF9A;
+	color: #000000;
 }
 a:hover {
 	color: #FFF;
@@ -24,7 +25,6 @@ a.local {
 	text-decoration: none;
 	padding: 5px;
 	border: 1px solid #FFF;
-	margin-left: 30px;
 	display: block;
 	width: 105px;
 }
@@ -35,7 +35,7 @@ a.local:link {
 	background-color: #99B896;
 	border: 1px solid #FFF;
 }
-a.local:visied {
+a.local:visited {
 	font-weight: bolder;
 	color: #FFF;
 	text-decoration: none;
@@ -56,7 +56,7 @@ h1, h2, h3, h4, h5, h6 {
 	width: 980px;
 	margin-right: auto;
 	margin-left: auto;
-	background-color: rgb(232, 75, 96); opacity: 0.8;
+	background-image: url(./docs/images/bg.png);
 	border: 2px #FFF solid;
 }
 header {
@@ -76,10 +76,11 @@ header h1 {
 	padding-top: 15px;
 	padding-bottom: 15px;
 	padding-right: 10px;
-	padding-left: 10px;
+	padding-left: 25px;
 	font-size: 90%;
 	color: #FFF;
-	margin-left: 20px;
+	font-size: 1em;
+	background-image: url(./docs/images/bgcol.png);
 }
 #sidebar h3 {
 	color: #FFF;
@@ -87,16 +88,18 @@ header h1 {
 	padding-top: 20px;
 }
 section {
-	margin-left: 250px;
-	color: #FFF;
-	padding: 20%;
+	font-weight: bold;
+	margin-left: 185px;
+	color: #F5F2F2;
+	padding: 1% 5% 20% 15%;
+	font-size: 1.2em;
 }
 section h1 {
 	font-size: 2em;
-	color: #82AF9A;
+	color: #28554E;
 }
 section h2, h3{
-	color: #82AF9A;
+	color: #28554E;
 }
 footer {
 	padding: 0 10px 0 20px;
@@ -106,10 +109,13 @@ footer a{
 	color: #FFF;
 	font-size: 80%;
 }
+footer a:visited {
+	color: #FFF;
+}
 footer p {
 	margin-left: 200px;
 	color: #FFF;
-	padding-top: 10px;
+	padding-top: 5px;
 	padding-bottom: 10px;
 }
 .floatrt {
@@ -126,7 +132,7 @@ footer p {
 	font-size: 1px;
 	line-height: 0;
 }
-.main{width: 100%; background: #FB9E97;}
+.main{width: 95%; background: #C8C7A8; padding-left: 5%;}
 /*General Menu Styling*/
 .mainnav{z-index: 9990; margin: 0 auto}
 li{list-style: none;}
