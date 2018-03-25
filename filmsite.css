@@ -114,6 +114,9 @@ footer a{
 footer a:visited {
 	color: #FFF;
 }
+footer a:hover {
+	color: #FFF;
+}
 footer p {
 	margin-left: 200px;
 	color: #FFF;
@@ -134,12 +137,35 @@ footer p {
 	font-size: 1px;
 	line-height: 0;
 }
+.picleft {
+	font-size: 0.9em;
+	font-style: italic;
+	color:#99B896;
+	background-color: #FFF;
+	padding: 10px;
+	float:left;
+	width: 200px;
+	margin-right: 30px;
+	text-align: center;
+}
+.picright {
+	font-size: 0.9em;
+	font-style: italic;
+	color:#99B896;
+	background-color: #FFF;
+	padding: 10px;
+	float:right;
+	width: 200px;
+	margin-left: 30px;
+	text-align: center;
+}
+/*navigation*/
 .main{width: 95%; background: #C8C7A8; padding-left: 5%;}
 /*General Menu Styling*/
-.mainnav{z-index: 9990; margin: 0 auto}
+.mainnav{z-index: 9990; margin: 0 auto;}
 li{list-style: none;}
 li a{text-decoration: none;}
-.dropdown{position: absolute; width: 150px;top: 161px; opacity: 0;visibility: hidden;transition: ease-out .35s;-moz-transition: ease-out .35s;-webkit-transition: ease-out .35s;}
+.dropdown{position: absolute; width: 150px;top: 250px; opacity: 0;visibility: hidden;transition: ease-out .35s;-moz-transition: ease-out .35s;-webkit-transition: ease-out .35s;}
 .mainnav li{ z-index: 9990; float: left;padding: 5px;background: #99B896;border-left: 1px dotted #fff;}
 .mainnav li:first-child{ z-index: 9990; border: none;}
 .mainnav li a{ z-index: 9990; display: block;padding: 2px 20px;color: #fff; font-family: Muli; font-size: 1.2em}
