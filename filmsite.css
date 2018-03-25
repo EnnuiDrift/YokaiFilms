@@ -8,12 +8,12 @@ body {
   background-size: cover;
 }
 a {
-	color: #2B363C;
+	color: #82AF9A;
 	text-decoration: none;
 }
 a:visited {
 	text-decoration: none;
-	color: #000000;
+	color: #2B363C;
 }
 a:hover {
 	color: #FFF;
