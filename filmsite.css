@@ -159,6 +159,20 @@ footer p {
 	margin-left: 30px;
 	text-align: center;
 }
+/*breadcrumb*/
+ul.breadcrumb {
+    list-style: none;
+    margin: -1% 0 0 -1%;
+}
+ul.breadcrumb li {
+    display: inline;
+    font-size: 0.9em;
+}
+ul.breadcrumb li+li:before {
+    padding: 8px;
+    color: #000;
+    content: "/\00a0";
+}
 /*navigation*/
 .main{width: 95%; background: #C8C7A8; padding-left: 5%;}
 /*General Menu Styling*/
