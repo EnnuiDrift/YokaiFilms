@@ -1,4 +1,23 @@
+https://search.creativecommons.org
+Pom Poko
 tanuki: Public Domain Mark 1.0
+https://www.europeana.eu/portal/en/record/91643/SMVK_OM_objekt_108965.html?q=tanuki+AND+RIGHTS%3A%2Acreative%2A+AND+NOT+RIGHTS%3A%2Anc%2A+AND+NOT+RIGHTS%3A%2And%2A : <span about='http://data.europeana.eu/item/91643/SMVK_OM_objekt_108965'><a href='http://europeana.eu/portal/record/91643/SMVK_OM_objekt_108965.html'><span property='dc:title'>Albumblad, Träsnitt, Böcker</span></a>. <span property='dc:creator'>Katsushika Hokusai. </span><a href='http://collections.smvk.se/carlotta-om/web/object/108965'>Östasiatiska museet</a>. <a href='http://creativecommons.org/licenses/by/2.5/' rel='xhv:license http://www.europeana.eu/schemas/edm/rights'>CC BY</a><span rel='cc:useGuidelines' resource='http://www.europeana.eu/rights/pd-usage-guide/'>.</span></span> 
+Spirited Away
 https://upload.wikimedia.org/wikipedia/commons/5/5d/Spirited_Away_logo.png : By Hayao Miyazaki [Public domain], via Wikimedia Commons
 https://upload.wikimedia.org/wikipedia/commons/4/4d/Lucca_Comics_%26_Games_2017_-_Cosplay_Citt%C3%A0_Incantata.jpg : By Syrio (Own work) [CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0)], via Wikimedia Commons
+Mushi-shi
 https://upload.wikimedia.org/wikipedia/commons/0/03/Matsue_Castle_in_Japan%2C_Forest_stroll1_%E6%9D%BE%E6%B1%9F%E5%9F%8E.jpg : By Mister99 (Own work) [CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0)], via Wikimedia Commons
+Ringu
+Kuroneko
+Gojira
+Ugetsu
+Onmyoji
+Kwaidan
+Kitaro
+Shinto
+Buddhism
+Onmyodo
+Bushido
+Yokai
+Kaiju
+Ghosts
