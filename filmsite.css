@@ -75,7 +75,7 @@ header h1 {
 #sidebar {
 	float: left;
 	width: 150px;
-	padding-top: 15px;
+	padding-top: 10px;
 	padding-bottom: 15px;
 	padding-right: 10px;
 	padding-left: 25px;
@@ -87,7 +87,6 @@ header h1 {
 #sidebar h3 {
 	color: #FFF;
 	font-weight: bolder;
-	padding-top: 20px;
 }
 section {
 	font-weight: bold;
@@ -158,6 +157,9 @@ footer p {
 	width: 200px;
 	margin-left: 30px;
 	text-align: center;
+}
+section li {
+	list-style-type: circle;
 }
 /*breadcrumb*/
 ul.breadcrumb {
