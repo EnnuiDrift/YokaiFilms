@@ -8,7 +8,7 @@ body {
   background-size: cover;
 }
 a {
-	color: #688D7C;
+	color: #557566;
 	text-decoration: none;
 }
 a:visited {
@@ -16,7 +16,7 @@ a:visited {
 	color: #2B363C;
 }
 a:hover {
-	color: #FFF;
+	color: #E9E9E9;
 	text-decoration: underline;
 	color: #FB9E97;
 }
@@ -44,7 +44,7 @@ a.local:visited {
 }
 a.local:hover {
 	font-weight: bolder;
-	color: #FF4266;
+	color: #FD1743;
 	text-decoration: none;
 	background-color: #b596b8;
 	border: 1px solid #FFF;
