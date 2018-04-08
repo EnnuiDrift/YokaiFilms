@@ -8,7 +8,7 @@ body {
   background-size: cover;
 }
 a {
-	color: #557566;
+	color: #64927C;
 	text-decoration: none;
 }
 a:visited {
@@ -16,9 +16,8 @@ a:visited {
 	color: #2B363C;
 }
 a:hover {
-	color: #E9E9E9;
+	color: #AC5353;
 	text-decoration: underline;
-	color: #FB9E97;
 }
 a.local {
 	font-weight: bolder;
